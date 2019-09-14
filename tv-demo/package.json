@@ -1,0 +1,24 @@
+{
+  "main": "node_modules/expo/AppEntry.js",
+  "private": true,
+  "dependencies": {
+    "expo": "^34.0.0",
+    "npm": "^6.4.1",
+    "react": "^16.6.0-alpha.8af6728",
+    "react-mixin": "^4.0.0",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-34.0.0.tar.gz",
+    "react-native-cookie": "^0.2.0",
+    "react-native-easy-toast": "^1.2.0",
+    "react-native-gesture-handler": "^1.2.2",
+    "react-native-iphone-x-helper": "^1.2.0",
+    "react-native-slider": "^0.11.0",
+    "react-native-swipe-gestures": "^1.0.2",
+    "react-native-tab-navigator": "^0.3.4",
+    "react-navigation": "^1.5.9",
+    "react-timer-mixin": "^0.13.3",
+    "utf8": "^3.0.0"
+  },
+  "devDependencies": {
+    "schedule": "^0.4.0"
+  }
+}
